@@ -133,6 +133,17 @@
   border: 0;
 }
 
+.footer {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  color: #545454;
+  line-height: 21.78px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
 @media screen and (max-width: 480px) {
   .profile {
     flex-direction: column;
