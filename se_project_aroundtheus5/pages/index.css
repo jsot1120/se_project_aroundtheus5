@@ -46,6 +46,10 @@
 }
 
 .profile__title {
+  font-family: Inter;
+  font-size: 42px;
+  font-weight: 500;
+  line-height: 48px;
   text-align: left;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
@@ -54,9 +58,13 @@
 }
 
 .profile__description {
+  font-family: Inter;
   font-size: 18px;
-  line-height: 22px;
   font-weight: 400;
+  line-height: 21.78px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
   grid-area: description;
   margin: 0;
 }
@@ -72,6 +80,14 @@
 
 .cards {
   /* fonts */
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 29.05px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+
   margin-top: 30px;
 }
 
