@@ -83,13 +83,12 @@
 .cards {
   /* fonts */
   font-family: Inter;
-  font-size: 24px;
+  font-size: 15px;
   font-weight: 900;
   line-height: 29.05px;
   text-align: left;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-
   margin-top: 30px;
 }
 
@@ -119,10 +118,8 @@
   display: flex;
   background-color: white;
   color: black;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
   align-items: center;
   justify-content: space-between;
   border-bottom-left-radius: 10px;
