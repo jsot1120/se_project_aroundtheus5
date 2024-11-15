@@ -65,7 +65,7 @@
   grid-area: description;
   margin: 0;
   font-family: "Inter", arial, sans-serif;
-font-size: 18px;
+  font-size: 18px;
 font-weight: 400;
 line-height: 21.78px;
 text-align: left;
@@ -160,3 +160,4 @@ text-decoration-skip-ink: none;
     width: 100%;
   }
 }
+ 
