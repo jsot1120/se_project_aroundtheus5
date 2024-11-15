@@ -65,13 +65,13 @@
   grid-area: description;
   margin: 0;
   font-family: "Inter", arial, sans-serif;
-  font-size: 24px;
-  font-weight: 900;
-  line-height: 29.05px;
-  text-align: left;
-  text-underline-position: from-font;
-  text-decoration-skip-ink: none;
-}
+font-size: 18px;
+font-weight: 400;
+line-height: 21.78px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
 
 .profile__image {
   width: 120px;
@@ -121,6 +121,14 @@
   justify-content: space-between;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
+  font-family: "Inter", arial, sans-serif;
+font-size: 24px;
+font-weight: 900;
+line-height: 29.05px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
 }
 
 .card__like-button {
