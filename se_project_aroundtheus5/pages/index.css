@@ -18,12 +18,31 @@
     width: 100%;
   }
 
+  .profile__title {
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 26.63px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+  }
+
   .profile__description {
     width: 100%;
     text-align: center;
   }
 
   .profile__add-button {
+    margin: 0;
+    width: 100%;
+  }
+
+  .profile__edit-button {
+    border: 0;
+  }
+
+  .footer {
     margin: 0;
     width: 100%;
   }
