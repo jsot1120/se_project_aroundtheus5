@@ -19,6 +19,8 @@
   height: 24px;
   width: 24px;
   grid-area: button;
+  margin-left: 20px;
+  margin-top: 15px;
 }
 .profile__add-button {
   background: transparent url(../images/add-icon.svg) center no-repeat;
@@ -36,7 +38,6 @@
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   grid-area: title;
-  margin: 0;
 }
 
 .profile__description {
@@ -57,5 +58,6 @@
   border-radius: 50%;
   object-fit: cover;
   background-position: center;
-  margin-right: 24px;
+  margin-right: 30px;
+  margin-bottom: 20px;
 }
