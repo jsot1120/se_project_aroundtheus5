@@ -19,8 +19,8 @@
   height: 24px;
   width: 24px;
   grid-area: button;
-  margin-left: 20px;
-  margin-top: 40px;
+  margin-left: 10px;
+  margin-top: 17px;
   border: none;
 }
 .profile__add-button {
@@ -39,6 +39,8 @@
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   grid-area: title;
+  margin-bottom: 0px;
+  margin-left: 30px;
 }
 
 .profile__description {
@@ -50,7 +52,7 @@
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
   grid-area: description;
-  margin: 0;
+  margin-top: 0px;
 }
 
 .profile__image {
@@ -59,6 +61,6 @@
   border-radius: 50%;
   object-fit: cover;
   background-position: center;
-  margin-right: 30px;
+  margin-right: 0px;
   margin-bottom: 20px;
 }
