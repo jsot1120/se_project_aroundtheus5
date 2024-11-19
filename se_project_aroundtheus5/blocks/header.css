@@ -53,6 +53,7 @@
   text-decoration-skip-ink: none;
   grid-area: description;
   margin-top: 0px;
+  margin-left: 30px;
 }
 
 .profile__image {
